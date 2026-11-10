@@ -17,7 +17,6 @@ Passionate about building scalable applications, automating business processes, 
 - 🎯 Goal: Become a Java Full Stack Engineer and build software for international companies.
 
 ---
-
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
